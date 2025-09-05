@@ -1,0 +1,1 @@
+rsync -avh --delete --progress ~/Music/beets-test/MyLib/ /Volumes/tanco/Medien/Beets/Music/

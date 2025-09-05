@@ -1,3 +1,6 @@
 *.pickle
 *.blb
 *.log
+.cache
+beets.sh
+.DS_Store
